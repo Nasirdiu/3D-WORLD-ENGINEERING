@@ -27,9 +27,9 @@ const Nav = () => {
   );
   return (
     <div>
-      <div class="navbar bg-black text-white">
+      <div class="navbar bg-rose-100">
         <div class="navbar-start">
-          <div class="dropdown bg-white text-black">
+          <div class="dropdown">
             <label tabindex="0" class="btn btn-ghost lg:hidden ">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
