@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/3cs9BTd/19248027-130403857767139-2232491411885345921-n.jpg"
+      },
+    {
+        "id": "2",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/6nFY02g/26231810-110593609748164-8426205102372719162-n.jpg"
+      },
+    {
+        "id": "3",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/G3b8n25/26733741-126823178125207-6165212584503083678-n.jpg"
+      },
+    {
+        "id": "4",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/dfWcjXh/26734235-130403911100467-8215000993312197830-n.jpg"
+      },
+    {
+        "id": "5",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/wYnTXh5/26841334-126894048118120-6010953430634123242-o.jpg"
+      },
+    {
+        "id": "6",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/PgK1Qyd/26904433-130403851100473-5661781922579816323-n.jpg"
+      },
+    {
+        "id": "7",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/gvTTdXk/26992184-130403921100466-8684572421303633478-n.jpg"
+      },
+    {
+        "id": "7",
+        "category": "3D WORLD",
+        "name": "Dublex Bulding",
+        "seller": "Addidas",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/st1V4Zy/313314685-1318316975642482-5416851667042665737-n.jpg"
+      }
+      
+]
