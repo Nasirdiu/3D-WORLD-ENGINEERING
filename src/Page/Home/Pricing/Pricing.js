@@ -3,10 +3,10 @@ import React from "react";
 const Pricing = () => {
   return (
     <div>
-      <section class="text-gray-600 body-font overflow-hidden">
-        <div class="container px-5 py-24 mx-auto">
+      <section class="text-gray-600 body-font overflow-hidden ">
+        <div class="container px-5 py-12 mx-auto">
           <div class="flex flex-col text-center w-full mb-20">
-            <h1 class="sm:text-4xl text-3xl font-medium title-font mb-2 text-gray-900">
+            <h1 class="sm:text-4xl text-3xl font-medium title-font mb-2 text-rose-700 uppercase">
               Pricing
             </h1>
             <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-500">

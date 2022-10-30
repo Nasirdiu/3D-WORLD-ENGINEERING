@@ -3,7 +3,7 @@
         "id": "1",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/dj2Mn64/80084111-609764196497767-1593976253193388032-n.jpg"
@@ -12,7 +12,7 @@
         "id": "2",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/YL8ccsf/80967601-613204532820400-29306829603340288-n.jpg"
@@ -21,7 +21,7 @@
         "id": "3",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/yy7Hy4d/82862318-623359775138209-3823106761338912768-n.jpg"
@@ -30,7 +30,7 @@
         "id": "4",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/R72bdRQ/198522896-988982948575888-826877049319624100-n.jpg"
@@ -39,7 +39,7 @@
         "id": "5",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/cxyTLQ9/198834158-988982945242555-2934535102860744254-n.jpg"
@@ -49,7 +49,7 @@
         "id": "6",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/GM3dJ8k/280364581-1198813140926200-7597938231229810149-n.jpg"
@@ -58,7 +58,7 @@
         "id": "7",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/ZmBx4xt/281890883-1204321423708705-3454097089633961279-n.jpg"
@@ -67,7 +67,7 @@
         "id": "8",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/1skQMh7/284264096-1211576039649910-8269320008429932759-n.jpg"
@@ -76,7 +76,7 @@
         "id": "9",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/bdQzS1Z/287375073-1221684478639066-5719652295576541508-n.jpg"
@@ -85,7 +85,7 @@
         "id": "10",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/rFC3x3j/313206426-1319032278904285-5292329024731678381-n.jpg"
@@ -94,7 +94,7 @@
         "id": "11",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/d6HvTR8/312567810-1316718955802284-410894331924406637-n.jpg"
@@ -103,7 +103,7 @@
         "id": "12",
         "category": "3D WORLD",
         "name": "Dublex Bulding",
-        "seller": "Addidas",
+        "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quos quidem sequi illum facere recusandae voluptatibus",
         "price": 420,
         "ratings": 4,
         "img": "https://i.ibb.co/3kD2K3k/313385381-1319032348904278-4168602198827868363-n.jpg"

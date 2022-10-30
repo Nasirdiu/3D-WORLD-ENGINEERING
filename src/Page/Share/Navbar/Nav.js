@@ -27,7 +27,7 @@ const Nav = () => {
   );
   return (
     <div>
-      <div class="navbar bg-rose-100">
+      <div class="navbar bg-base-100">
         <div class="navbar-start">
           <div class="dropdown">
             <label tabindex="0" class="btn btn-ghost lg:hidden ">
@@ -53,9 +53,11 @@ const Nav = () => {
               {menuItems}
             </ul>
           </div>
+          <Link to='/home'>
           <a class="btn btn-ghost normal-case text-xl">
             <img src={img} className="w-15 h-10" alt="" />
           </a>
+          </Link>
         </div>
         <div class="navbar-end hidden lg:flex">
           <ul class="menu menu-horizontal p-0">{menuItems}</ul>
