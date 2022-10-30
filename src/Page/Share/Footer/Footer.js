@@ -1,4 +1,5 @@
 import React from "react";
+import ReactTopScellorBar from "../../../Components/ReactTopScellorBar/ReactTopScellorBar";
 
 const Footer = () => {
   return (
@@ -82,6 +83,7 @@ const Footer = () => {
 	</div>
 	<div className="py-6 text-sm text-center dark:text-gray-400">© 1968-2022 Company Co. All rights reserved.</div>
 </footer>
+<ReactTopScellorBar></ReactTopScellorBar>
    </div>
   );
 };
